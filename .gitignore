@@ -1,0 +1,8 @@
+# Abaikan semua
+/*
+
+# Kecuali folder/file ini
+!/.gitignore
+!/nvim
+!/kitty
+!/fish
