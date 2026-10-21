@@ -1,0 +1,19 @@
+{
+  "active_border_1": "579bd9",
+  "active_border_2": "d95791",
+  "active_border_3": "9f57d9",
+  "inactive_border": "121e29",
+  "angle": 45,
+  "light": {
+    "bg": "#e1eefa",
+    "fg": "#162838",
+    "accent": "#2181d9",
+    "red": "#e11d48"
+  },
+  "dark": {
+    "bg": "#121e29",
+    "fg": "#e6eef5",
+    "accent": "#3d9cf2",
+    "red": "#ff3366"
+  }
+}
